@@ -10,7 +10,9 @@ Note: these may be incomplete
 - python3-dbus
 - libchamplain
 - libchamplain-gtk
+- clutter-gtk
 
 ### pip packages
+- cefpython3
 - click
 
