@@ -1,5 +1,5 @@
 # geolocation
-Playing with GNOME's dbus geoip API (GeoClue2)
+Playing with GNOME's dbus GeoIP API (GeoClue2)
 
 ## requirements (Fedora 30)
 Note: these may be incomplete
