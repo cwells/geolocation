@@ -5,12 +5,12 @@ Playing with GNOME's dbus geoip API
 Note: these may be incomplete
 
 ### system packages
-python3-gobject-base
-python3-gobject
-python3-dbus
-libchamplain
-libchamplain-gtk
+- python3-gobject-base
+- python3-gobject
+- python3-dbus
+- libchamplain
+- libchamplain-gtk
 
 ### pip packages
-click
+- click
 
